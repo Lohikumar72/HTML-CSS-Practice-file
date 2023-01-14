@@ -1,0 +1,43 @@
+h1 {
+  color: rgba(0, 0, 0, 0.918);
+  font-size: 45px;
+}
+
+h1 {
+  background-color: orange;
+  border: solid black;
+}
+
+h2 {
+  color: #eb1e4af1;
+  font-size: 40px;
+  background-color: rgb(136, 255, 0);
+}
+
+p {
+  font-size: 22px;
+  line-height: 1.5;
+}
+body {
+  /* background-color: rgb(184, 179, 179); */
+}
+
+a:link {
+  color: cyan;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(9, 29, 29);
+}
+
+a:hover {
+  color: orangered;
+  text-decoration: underline orangered;
+  font-weight: bold;
+}
+
+a:active {
+  background-color: black;
+  font-style: italic;
+}
